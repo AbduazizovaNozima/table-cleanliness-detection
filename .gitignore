@@ -1,0 +1,8 @@
+datasets/
+labeled/
+__pycache__/
+*.pyc
+.env
+venv/
+*.zip
+checkpoint.json
